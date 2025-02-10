@@ -29,8 +29,8 @@ To use the Personality Quiz, follow these steps:
     ```
 
 4. Open your browser and navigate to `http://localhost:3000` to use the application.
-
-<!-- Alternatively, you can visit the deployed application directly via the following URL: [Personality Quiz on Vercel](https://your-vercel-deployment-url.vercel.app) -->
+<br/>
+Alternatively, you can visit the deployed application directly via the URL in the description.
 
 ## How to Play
 
